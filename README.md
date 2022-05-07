@@ -11,9 +11,10 @@
 <img alt="pikachu" align="right" width="250px" src="https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif" />
   
 <div> 
-<div style="display: flex">
   
-  ## These are my skills ✨
+   ## These are my skills ✨
+  
+<div style="display: inline_block" width="47%">
   
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -23,9 +24,9 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
   
-<div style="display: inline_block">
-  
   ## And these are the languages I'm curious about 👀
+  
+<div style="display: inline_block" width="47%">
   
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
