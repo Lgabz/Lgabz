@@ -8,8 +8,10 @@
   
 ![snake gif](https://github.com/Lgabz/Lgabz/blob/output/github-contribution-grid-snake.svg)
   
- 
-<div style="display: inline_block">
+<img alt="pikachu" align="right" width="250px" src="https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif" />
+  
+<div> 
+<div style="display: flex">
   
   ## These are my skills ✨
   
@@ -30,5 +32,4 @@
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </div>
-
-<img alt="pikachu" src="https://i.gifer.com/origin/76/76dfca2a58c4dff5c9827b527132bda8.gif" />
+  </div>
