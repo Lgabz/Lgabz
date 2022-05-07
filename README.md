@@ -8,7 +8,7 @@
   
 ![snake gif](https://github.com/Lgabz/Lgabz/blob/output/github-contribution-grid-snake.svg)
   
-<img alt="pikachu" align="right" width="250px" src="https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif" />
+<img alt="pikachu" align="right" width="260px" src="https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif" />
   
 <div> 
   
