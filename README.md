@@ -1,9 +1,7 @@
 ## Oi, eu sou o Gabriel!
 
 
- <div align="center"> 
- 
- Work in progress: https://github.com/eldermuller/cobrancas-backend
+ <div align="center">
   
    ### These are my skills ✨
   
