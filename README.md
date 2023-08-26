@@ -35,8 +35,6 @@
   <img height="180em" width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lgabz&layout=compact&langs_count=7&hide_border=true&theme=dark"/>
 </div>
   <br>
-   <div align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/gabrielluizsouza.png" alt="TryHackMe">
-   </div>
+  
 
 ![snake gif](https://github.com/Lgabz/Lgabz/blob/output/github-contribution-grid-snake.svg)
